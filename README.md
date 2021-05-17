@@ -24,6 +24,11 @@ Code tested on following environments, other version should also work:
 Please read [HEAR](EE369.md).
 
 # Result
+Pytorch is used in homework
 | Question | Train accuracy | Test accuracy |
 | -------- | -------------- | ------------- |
-| Q1 | 97.28% | 89.60% |
+| Q1 | 97.20% | 89.80% |
+| Q2 | 81.42% | 83.60% |
+| Q3 | 97.78% | 87.10% |
+| Q4 | 93.32% | 90.40% |
+
